@@ -50,5 +50,9 @@ area_of_circle = math.pi * radius**2
 circumference_of_the_circle = 2 * math.pi *radius
 print(area_of_circle)
 print(circumference_of_the_circle)
-
+first_name = input('first_name: ')
+last_name = input('last_name: ')
+country = input('country: ')
+age = input('age: ')
+help(str)
 
